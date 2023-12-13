@@ -14,8 +14,8 @@
 7. Untuk menjalankan aplikasi anda cukup mengetikkan 'php artisan serve' pada terminal lalu ctrl+click pada link yang muncul
 
 ## Akun Login
-email       = elvan@gmail.com;
-password    = 1234;
+- email       = elvan@gmail.com;
+- password    = 1234;
 
 
 
